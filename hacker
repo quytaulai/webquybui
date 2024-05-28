@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+        body,html{
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        .backgroud{
+            background-image: url("z5485821024851_f6e3c3b16152190c08b8e4d3b74b8066.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100%;
+            height: 300px;
+            top: 0;
+            
+        }
+        .header__p{
+            font-family: "Allura", cursive;
+            font-style: normal;
+            font-weight: 500;
+            position: relative;
+        }
+        .img1{
+            width: 20%;
+            height: 20%;
+            top: -115px;
+            left: -10px;
+            position: relative;
+            
+        }
+        p{
+            margin: 0;
+        }
+        .img2{
+            right: 0;
+        }
+        .header__h4{
+            font-family: "Allura", cursive;
+            font-weight: 400;
+            font-style: normal;
+            position: relative;
+            left: 174px;
+            top: -100px;
+            color: brown;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="backgroud">
+        <img class="img1" src="snapedit_1716909390933.png" alt="">
+        <img class="img2" src="snapedit_1716909485508.png" alt="">
+        <p class="header__p">Phú and Quý</p>
+        <h4 class="header__h4">21/09/2024</h4>
+    
+</div>
+</body>
+</html>
